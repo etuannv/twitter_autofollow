@@ -1,0 +1,4 @@
+Create a script to follow mass of twitter account
+- List account from csv file
+- Have to wait 2mins after following an account
+
